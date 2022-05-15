@@ -1,0 +1,10 @@
+com/pbg/usermanagement/UsermanagementApplication.class
+com/pbg/usermanagement/service/UserServiceImpl.class
+com/pbg/usermanagement/mapper/UserMapper.class
+com/pbg/usermanagement/dto/UserDto$UserDtoBuilder.class
+com/pbg/usermanagement/dto/UserDto.class
+com/pbg/usermanagement/dto/User.class
+com/pbg/usermanagement/service/UserService.class
+com/pbg/usermanagement/dto/User$UserBuilder.class
+com/pbg/usermanagement/controller/UserController.class
+com/pbg/usermanagement/mapper/UserMapperImpl.class
