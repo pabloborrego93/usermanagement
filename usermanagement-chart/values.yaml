@@ -50,8 +50,9 @@ ingress:
       secretName: wildcard-pabloborrego-es-tls
   hosts:
     - host: usermanagement.pabloborrego.es
-      http:
-        paths: null
+      paths:
+        - path: "/"
+          pathType: Prefi
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
