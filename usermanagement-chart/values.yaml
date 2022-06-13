@@ -52,7 +52,7 @@ ingress:
     - host: usermanagement.pabloborrego.es
       paths:
         - path: "/"
-          pathType: Prefi
+          pathType: Prefix
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
